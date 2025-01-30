@@ -80,6 +80,8 @@ source venv/bin/activate
 ```sh
 pip install -r requirements.txt
 ```
+📥 Baixe o modelo aqui: [Google Drive - modelo_predicao.pkl](https://drive.google.com/file/d/1TJhmnoLtTyafV3T68EWfekLMyFvP2xUm/view?usp=drive_link)
+e o coloque no local do ambiente virtual
 
 ### 4. Instale um kernel Jupyter para esse ambiente virtual
 ```sh
